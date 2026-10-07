@@ -64,6 +64,19 @@ This project is intended only for forms that you own or have explicit permission
 
 Synthetic responses should be clearly identified as test data and should not be used to manipulate surveys, research results, polls, or other real-world datasets.
 
+## 🎥 Project Demo
+
+Watch the demo to see the Google Forms QA automation tool in action.
+
+The demonstration shows:
+- Synthetic test data generation
+- Automated Google Forms submissions
+- Real-time PowerShell execution
+- Success/failure validation
+- Submitted responses appearing in Google Forms
+
+👉 See the demo video included in this repository.
+
 ## 👨‍💻 Developer
 
 Developed by **Nour Ben Fekih Ahmed**
